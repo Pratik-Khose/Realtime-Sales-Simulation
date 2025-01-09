@@ -97,5 +97,3 @@ For questions or feedback, feel free to reach out:
 - **GitHub**: [Pratik-Khose](https://github.com/Pratik-Khose)
 
 ---
-
-Happy learning and building!

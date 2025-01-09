@@ -68,8 +68,7 @@ To run this project, you need the following tools installed:
 
 ## Files Included
 
-- `database_setup.sql`: Script to create and populate the SQL Server database.
-- `sales_simulation.sql`: Script to generate sales data automatically.
+
 - `power_bi.pbix`: Power BI file with the dashboard setup.
 
 ## Screenshots
@@ -89,9 +88,6 @@ To run this project, you need the following tools installed:
 
 If you have suggestions or improvements, feel free to open a pull request or submit an issue.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 

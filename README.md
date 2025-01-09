@@ -2,6 +2,10 @@
 
 This project demonstrates how to create a sales simulation for a bakery business using SQL Server and display its real-time sales information in Power BI Desktop. The tutorial guides you through setting up the database, generating sales data, and visualizing the results using the Direct Query connection.
 
+
+https://github.com/user-attachments/assets/8be8337f-1684-4aec-b1c0-9ad40e9c49dc
+
+
 ## Features
 
 - **SQL Server Setup**: Create and manage a database for bakery sales.
@@ -69,12 +73,11 @@ To run this project, you need the following tools installed:
 - `power_bi.pbix`: Power BI file with the dashboard setup.
 
 ## Screenshots
+![Screenshot 2025-01-09 081532](https://github.com/user-attachments/assets/21080042-dce1-48e8-8bb6-43f77bdd5999)
 
 ### Dashboard Example
-![Power BI Dashboard](./images/dashboard_example.png)
+![Screenshot 2025-01-09 101501](https://github.com/user-attachments/assets/7eeca086-b123-44f1-b2b3-8b36fbfb4b7c)
 
-### Database Schema
-![Database Schema](./images/database_schema.png)
 
 ## Usage
 
